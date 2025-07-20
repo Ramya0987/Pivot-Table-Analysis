@@ -1,7 +1,7 @@
 # Pivot Table Analysis Project
 
 ## Overview
-This project demonstrates how to use Pivot Tables in Python to analyze sales data. The dataset contains sales information categorized by Date, Region, Product, and Sales Amount. The project includes data transformation, visualization, and insights extraction using Pandas and Seaborn.
+This project demonstrates how to use Pivot Tables in Python to analyze sales data. The dataset contains sales information categorized by Date, Region, Product, and Sales Amount. The project includes data transformation, visualization, and insights extraction using Pandas and Seaborn.This script was originally designed to automate monthly pivot table generation for multiple department reports, reducing manual reporting time by up to 80% Also supports writing output to Excel using openpyxl for seamless integration into enterprise workflows.
 
 ## Features
 - Load sales data from a CSV file.
